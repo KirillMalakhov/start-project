@@ -1,0 +1,22 @@
+{
+  "blocks": {
+
+  },
+  "addCssBefore": [
+    "./src/sass/variables.sass",
+    "./src/sass/mixins.sass"
+  ],
+  "addCssAfter": [],
+  "addJsBefore": [],
+  "addJsAfter": [],
+  "addImages": [
+    "./src/img/*.{jpg,jpeg,gif,png,svg,ico}"
+  ],
+  "copiedCss": [],
+  "copiedJs": [],
+  "dirs": {
+    "srcPath": "./src/",
+    "buildPath": "./build/",
+    "blocksDirName": "blocks"
+  }
+}
